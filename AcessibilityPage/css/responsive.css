@@ -1,0 +1,65 @@
+@media only screen and ( max-width: 1200px )
+{
+    main
+    {
+        width: 80%;
+        margin: auto;
+        padding: 15px;
+    }
+
+    .menu
+    {
+        width: 70%;
+        margin-top: -6.7%;
+        margin-left: 25%;
+    }
+    
+    .menu ul li
+    {
+        margin-right: 1%;
+    }
+    
+    .content_box
+    {
+        padding: 35px;
+    }
+
+    .article_iframe 
+    {
+        margin-top: -18%;
+    }
+    
+    .article_image
+    {
+        margin-top: -18%;
+    }
+    
+    .text_box 
+    {
+        margin-top: 7%;
+        margin-left: -63%;
+    }
+    
+    .video_course 
+    {
+        width: 35%;
+        height: 150px;
+        margin-top: -8%;
+        border-style: none;
+    }
+    
+    .image_course 
+    {
+        width: 35%;
+        height: 150px;
+        margin-top: -8%;
+    }
+
+    #image_title
+    {
+        width: auto;
+        max-width: 25%;
+        margin-top: 1%;
+        margin-left: 4%;
+    }
+}
